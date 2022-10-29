@@ -32,3 +32,7 @@ camlist techincal task using spring-boot java8
 - use /getpid to list all users bids on your bids by username and the bid offer.
 
 
+
+#### Challenge 2: 
+- you will find it impelemented in GeneralizedSecondPrice.java script 
+
