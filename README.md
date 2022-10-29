@@ -7,7 +7,7 @@ camlist techincal task using spring-boot java8
 +	Build Tool Maven  ✅ 
 +	REST ✅ 
 ## Bonus
-+	ORM (i.e. jpa) ✅ 
++	Jpa ✅ 
 +	Spring secuirty 
 
 
